@@ -11,5 +11,6 @@
         <p>Ahahahahahaha ti zarickrolenna</p>
         <button id="buy">Click</button>
     </div>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </body>
 </html>
